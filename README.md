@@ -9,7 +9,7 @@
   <summary>  <b>Table of Contents</b> </summary>
   <ol start="0.">
     <li> <a href="./00-Environment/">Setup Development Environment</a> </li>
-    <li> <a href="./01-PythonBasic/">Python Basic</a> </li>
+    <li> <a href="./01-Tools/">Tools</a> </li>
   </ol>
 </details>
 
