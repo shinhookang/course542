@@ -2,8 +2,8 @@
 ## High-Performance Machine Learning
 
 * Instructor: Shinhoo Kang 
-* Class Time: Wed. (10:00-10:50) in-person 
-* Office Hours: Wed. (14:30-16:00)
+* Class Time: Thu. (10:00-11:50) in-person 
+* Office Hours: Thu. (13:00-15:00)
 
 <details open>
   <summary>  <b>Table of Contents</b> </summary>
