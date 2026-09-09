@@ -2,13 +2,13 @@
 ## JAX, Distributed Training, and Federated Learning
 
 
-Two threads are restated all semester:
+<!-- Two threads are restated all semester:
 
 1. **Local SGD → FedAvg.** FedAvg carries Local SGD's local-compute + periodic-averaging
    structure into the federated setting, which adds non-IID data, partial participation,
    unequal client sizes, and systems heterogeneity. 
 2. **One codebase, seven evolutions.** The 11 graded labs evolve a single Equinox/Optax
-   codebase from a single-device ResNet to a federated, compressed, private, defended system.
+   codebase from a single-device ResNet to a federated, compressed, private, defended system. -->
 
 ## Course map
 
