@@ -153,5 +153,29 @@ Check the installed Python packages by `pip list`
 Here, **brock** refers to your user ID, **~/course545** is your working directory-adjust them accordingly. 
 
 
+## To register a Python virtual environment as a Jupyter Kernel, follow these steps:
+
+1. Activate your virtual environment
+
+```
+$> source .venv/bin/activate
+```
+
+2. Register the virtual environment as a Jupyter kernel
+
+```
+$> python -m ipykernel install --user --name .venv --display-name venv
+```
+
+3. Verify the new kernel
+
+```
+$> jupyter kernelspec list
+Available kernels:
+  python3    /Users/pepc/Teaching/410/.venv/share/jupyter/kernels/python3
+  .venv      /Users/pepc/Library/Jupyter/kernels/.venv
+```
+
+
 <!-- ## Reference [PyEnv](https://github.com/pyenv/pyenv) -->
 
