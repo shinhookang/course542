@@ -15,8 +15,8 @@
 | Wk | Notebook | Topic | Lab | Stage | Reading |
 |----|----------|-------|-----|-------|---------|
 | 01 | [Intro to HPML](01-IntroHPML/) | CPU/GPU/TPU, roofline | — | — | PPT |
-<!-- | 02 | [Automatic Differentiation](02-AutomaticDifferentiation/) | Reverse vs forward AD, `custom_vjp` | 1 | — | PPT |
-| 03 | [JAX Ecosystem](03-JAXEcosystem/) | Equinox · Optax · Diffrax · Lineax · Grain | 2 | 1 | PPT |
+| 02 | [Automatic Differentiation](02-AutomaticDifferentiation/) | Reverse vs forward AD, `custom_vjp` | 1 | — | PPT |
+<!--| 03 | [JAX Ecosystem](03-JAXEcosystem/) | Equinox · Optax · Diffrax · Lineax · Grain | 2 | 1 | PPT |
 | 04 | [Efficient JAX](04-EfficientJAX/) | `vmap`/`scan`, PRNG, recompile traps, profiling | 3 | 1 | PPT |
 | 05 | [Data Parallelism](05-DataParallelism/) | Ring AllReduce, `Mesh`/`NamedSharding`/`shard_map` | 4 | 2 | PPT |
 | 06 | [Model Parallelism](06-ModelParallelism/) | Tensor/pipeline parallel, `remat`, ZeRO | 5 | 2 | PPT |
